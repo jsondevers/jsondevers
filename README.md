@@ -9,7 +9,7 @@
 
 
 
-[![Jason's GitHub stats](https://github-readme-stats-roan-xi.vercel.app/api?username=jdevers1&show_icons=true&count_private=true&theme=dracula)](https://github.com/jdevers1/github-readme-stats)[![Jason's Top Langs](https://github-readme-stats-roan-xi.vercel.app/api/top-langs/?username=jdevers1&count_private=true&langs_count=9&layout=compact&hide=html,standardml,make,cmake)](https://github.com/jdevers1/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats-roan-xi.vercel.app/api?username=jsondevers1&show_icons=true&count_private=true&theme=dracula)](https://github.com/jsondevers/github-readme-stats)[![Jason's Top Langs](https://github-readme-stats-roan-xi.vercel.app/api/top-langs/?username=jdevers1&count_private=true&langs_count=9&layout=compact&hide=html,standardml,make,cmake)](https://github.com/jsondevers/github-readme-stats)
 
 [![@jsondev's Holopin board](https://holopin.me/jsondev)](https://holopin.io/@jsondev)
 
