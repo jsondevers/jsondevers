@@ -1,5 +1,5 @@
 ## Hi I'm Jason 👋
-#### I am a first-gen 🧑‍🎓 student at the University of Maryland studying  Computer Science 💻 and am part of the QUEST Honors Program.
+#### I am a first-generation college student at the University of Maryland studying  Computer Science and am part of the QUEST Honors Program.
 
 ### I am currently paying for my education by working as a: 
 - Research Assistant for the Applied Research Lab for Intelligence and Security (ARLIS) 🔒
