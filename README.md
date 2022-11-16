@@ -8,7 +8,7 @@
 
 
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsondevers&count_private=false)](https://github.com/jsondevers/github-readme-stats)
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsondevers&count_private=true)](https://github.com/jsondevers/github-readme-stats)
 
 [![Jason's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsondevers&count_private=false)](https://github.com/jsondevers/github-readme-stats)
 
