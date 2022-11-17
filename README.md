@@ -2,12 +2,12 @@
 #### I am a first-generation college student at the University of Maryland studying Computer Science  
 ##### I am passionate about software development and enjoy using algorithms and data structures to lower latency and improve systems. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
 
-### I am currently paying for my education by working as a: 
+#### I am currently paying for my education by working as a: 
 - Research Assistant for the Applied Research Lab for Intelligence and Security (ARLIS) 🔒
 - Course Facilitator/Coding Instructor for the University of Maryland Computer Science Department (CMNS) 🧑‍🏫
 - Resident Assistant for the University of Maryland Residential Life (ResLife)
 
-
+##### You can see more of my experiences via my [Linkedin](https://www.linkedin.com/in/jason-devers/) 
 
 [![Jason's GitHub stats](https://github-readme-stats-gamma-ashy-92.vercel.app/api?username=jsondevers&show_icons=true&theme=dracula&count_private=false)](https://github.com/jsondevers/github-readme-stats)           [![Jason's Top Langs](https://github-readme-stats-gamma-ashy-92.vercel.app/api/top-langs/?username=jsondevers&langs_count=9&layout=compact&hide=html,standardml,make,cmake&theme=dracula&count_private=false)](https://github.com/jsondevers/github-readme-stats)
 
