@@ -1,6 +1,6 @@
 ## Hi I'm Jason 👋
 #### I am a first-generation college student at the University of Maryland studying Computer Science  
-##### I am passionate about the design and implementation of data-structures to efficiently access, manipulate, and store inputs. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
+##### I am passionate about the theory, design, and implementation of data-structures to efficiently access, manipulate, and store inputs to create lightning fast systems. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
 
 ##### On campus, I currently work as an: 
 - Research Assistant for the Applied Research Lab for Intelligence and Security (ARLIS) 🔒
