@@ -1,7 +1,8 @@
 # Hi I'm Jason 👋
+
 I am a first-generation college student at the University of Maryland studying Computer Science  
 
-I am passionate about the theory, design, and implementation of data-structures to efficiently access, manipulate, and store inputs to create secure distributed systems. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
+I am passionate about the theory and practical application of secured distributed systems with the use of parallel data-structures and algorithms. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
  
 
 You can see more of my experiences via my [Linkedin](https://www.linkedin.com/in/jsondev) 
