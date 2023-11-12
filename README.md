@@ -1,9 +1,12 @@
-# Hi I'm Jason 👋
+# howdy 🤠
 
-I am a first-generation college student at the University of Maryland studying Computer Science  
+i'm jason, first gen senior cs major @ umd. passionate about the theory and application of computer networks and distributed systems/stores.
 
-I am passionate about the theory and practical application of secured distributed systems with the use of parallel data-structures and algorithms. Outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
- 
+## touching grass
+
+outside of tech, I love cooking and going to the gym, check out my fitness account on [Instagram](https://www.instagram.com/deversfit/) 
+
+### more me
 
 You can see more of my experiences via my [Linkedin](https://www.linkedin.com/in/jsondev) 
 
